@@ -1,0 +1,32 @@
+1111
+2222
+3333
+4444
+5555
+6666
+7777
+8888
+9999
+1010
+1111
+word , asd
+max_word , asd
+mmm_word , asd
+asdaword , asd
+hello , asd
+hi , asd
+howryou , asd
+
+asdasd # asdqwe
+;laksl;dw # asdqwe
+# asdqwe
+qwew #
+
+
+# def sd()
+
+def commented_function():
+    """
+    This is another docstring.
+    """
+    pass

@@ -1,0 +1,10 @@
+H,Hydrogen,1
+He,Helium,2
+Li,Lithium,3
+Be,Beryllium,4
+B,Boron,5
+C,Carbon,6
+N,Nitrogen,7
+O,Oxygen,8
+F,Fluorine,9
+Ne,Neon,10
